@@ -1,4 +1,4 @@
-# RP2040-Zero-simple-blink-with-Micropython
+# RP2040-Zero-simple-blink-with-Micropython-function
 As using the RGB led of RP2040 Zero as a simple led with a function
 In this sketch i create a function to use the rgb led in tho ways:
 First is possible switch on and off the led in white color with the function call
