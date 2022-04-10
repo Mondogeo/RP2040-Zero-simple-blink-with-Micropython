@@ -37,19 +37,19 @@ def neo_pixel (valore):
 # ************************************
 # Examples
 #
-neo_pixel (1) # switch on the lad as white
+neo_pixel (1) # switch on the led as white
 sleep(1)
 #
-neo_pixel (0) # switch off the lad
+neo_pixel (0) # switch off the led
 sleep(1)
 #
-neo_pixel ((150, 0, 0)) # switch on the lad as red
+neo_pixel ((150, 0, 0)) # switch on the led as red
 sleep(1)
 #
 neo_pixel ((150, 150, 0))
 sleep(1)
 #
-neo_pixel ((0, 150, 0)) # switch on the lad as green
+neo_pixel ((0, 150, 0)) # switch on the led as green
 sleep(1)
 #
 neo_pixel ((0, 150, 150))
