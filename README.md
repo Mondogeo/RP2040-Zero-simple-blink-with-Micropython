@@ -6,3 +6,4 @@ neo_pixel (1) and neo_pixel(0).
 Second you can switch on the led not as white led but as a colored led with the function call
 neo_pixel(color_red, color_green, color_blue)
 where color_ is between 0 and 255.
+The function return 1 if everything goes ok otherwise return 0.
